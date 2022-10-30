@@ -16,3 +16,6 @@
 | Unordered lists             | add dashes (\-), asterisks (\*), or plus signs (+) in front of line items. Indent one or more items to create a nested list. | \<ul\> <br> \<li\> first item \</li\> <br> \<li\> second item \</li\> <br> \</ul\> |
 | Code                        | To denote a word or phrase as code, enclose it in backticks (`). | \<code\> \</code\> |
 | Horizontal Rules            | use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves. | \<hr\> \</hr\> |
+| Links                       | enclose the link text with brackets ([]) and then follow it immediately with the URL in parentheses () | \<a href="URL"\> link text \</a\> |
+
+[google](https//:google.com)
