@@ -22,5 +22,5 @@
 | Images                      | add exclamation mark (!) followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title in quotation marks after the path or URL like this:<br> ![the alt of the image](the path or the URL "the title of the image (optional)") | \<img src="the path or the URL of the image" alt=""\> |
 |Linking image                | enclose the Markdown for the image in brackets, and then add the link in parentheses like this: <br> [![the alt of the image](the path or the URL "the title of the image (optional)")](the link) | \<a href="the link"\>\<img src="the path or the URL" alt=""\> \</a\> |
 
-for more information [click here](https://www.markdownguide.org/basic-syntax/)
+for more information [click here](https://www.markdownguide.org/basic-syntax/)<br>
 and for styling commands [click here](https://www.markdownguide.org/hacks)
