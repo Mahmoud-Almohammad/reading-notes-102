@@ -17,5 +17,8 @@
 | Code                        | To denote a word or phrase as code, enclose it in backticks (`). | \<code\> \</code\> |
 | Horizontal Rules            | use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves. | \<hr\> \</hr\> |
 | Links                       | enclose the link text with brackets ([]) and then follow it immediately with the URL in parentheses () | \<a href="URL"\> link text \</a\> |
+| URLs and Email Addresses    | To quickly turn a URL or email address into a link, enclose it in angle brackets (<>) | 
 
-[google](https//:README.md)
+
+
+<a href= mailto"almohammadmhmood@gmail.com"></a>
