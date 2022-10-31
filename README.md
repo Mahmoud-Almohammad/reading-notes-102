@@ -18,6 +18,6 @@ and this concept is opposite to what we called **Fixed mindset** because fixed m
 5- Success of others:
 - Growth mindset: is inspired by
 - Fixed mindset: views as a threat <br>
-### **and this leads to:**
+### **\* and this leads to:**
 - Growth mindset: Acheive more & higher goals
 - Fixed mindset: fails to reach full potential
