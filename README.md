@@ -21,3 +21,8 @@ and this concept is opposite to what we called **Fixed mindset** because fixed m
 ### **\* and this leads to:**
 - Growth mindset: Acheive more & higher goals
 - Fixed mindset: fails to reach full potential
+
+### and here some advices to keep yourself in growth mindset 
+1- Try to learn new things every day to keep your mind fresh.<br>
+2- Don't be upset from criticism and take it as a advice to you to improve yourself.<br>
+3- Don't waste your time in unhelpful habits and try to leave them. 
