@@ -28,3 +28,6 @@ and this concept is opposite to what we called **Fixed mindset** because fixed m
 3- Don't waste your time in unhelpful habits and try to leave them. 
 ### For more informations about growth mindset you can click [here][1]
 [1]: <https://www.atlassian.com/blog/inside-atlassian/growth-mindset>
+
+### provided by [Mahmoud-Almohammad][2]
+[2]: <https://github.com/Mahmoud-Almohammad>
