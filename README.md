@@ -24,6 +24,12 @@ and this concept is opposite to what we called **Fixed mindset** because fixed m
 
 [1]: <https://www.atlassian.com/blog/inside-atlassian/growth-mindset>
 
+### And here the summary of the reads in our course
+
+| The number of the read summary    |                       The link                       |
+|-----------------------------------|------------------------------------------------------|
+| Read 1                            | <a href="Basic markdown syntax (read1).md"></a>      |
+
 ### provided by [Mahmoud-Almohammad][2]
 
 [2]: <https://github.com/Mahmoud-Almohammad>
