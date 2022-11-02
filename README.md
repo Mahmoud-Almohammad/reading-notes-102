@@ -33,7 +33,7 @@ and this concept is opposite to what we called **Fixed mindset** because fixed m
 | Read 3                            | [Read3](./Git-intro-(read3).md)                      |
 | Read 4                            | [Read4](./Wireframe%2BHTML-(read4).md)               |
 | Read 5                            | [Read5](./CSS-(read5).md)                            |
-
+| Read 6                            | [Read6](./JS-intro-(read6).md)                       |
 
 ### provided by [Mahmoud-Almohammad][2]
 
