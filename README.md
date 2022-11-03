@@ -34,6 +34,11 @@ and this concept is opposite to what we called **Fixed mindset** because fixed m
 | Read 4                            | [Read4](./Wireframe%2BHTML-(read4).md)               |
 | Read 5                            | [Read5](./CSS-(read5).md)                            |
 | Read 6                            | [Read6](./JS-intro-(read6).md)                       |
+| Read 7                            | [Read7](./Control-flow-(read7).md)                   |
+| Read 8                            | [Read8](./Expressions-and-operators-(read8).md)      |
+
+
+
 
 ### provided by [Mahmoud-Almohammad][2]
 
