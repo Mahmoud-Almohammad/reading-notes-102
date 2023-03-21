@@ -28,7 +28,7 @@ and this concept is opposite to what we called **Fixed mindset** because fixed m
 
 | The number of the read summary    |                       The link                       |
 |-----------------------------------|------------------------------------------------------|
-| Read 1                            | [Read1](./example/Basic-markdown-syntax-(read1).md)  |
+| Read 1                            | [Read1](./Basic-markdown-syntax-(read1).md)          |
 | Read 2                            | [Read2](./Text-editor-(read2).md)                    |
 | Read 3                            | [Read3](./Git-intro-(read3).md)                      |
 | Read 4                            | [Read4](./Wireframe%2BHTML-(read4).md)               |
